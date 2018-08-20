@@ -1,0 +1,22 @@
+.contentLayout{
+  height: 100%;
+  width: 100%;
+}
+
+.colContent{
+  margin: 2rem 1.85rem;
+  padding: 2rem 2rem;
+  height: 100%;
+  font-size: 18px;
+  font-family: sans-serif,'Microsoft JhengHei';
+  text-align: center;
+  border: 2px dashed black;
+  box-sizing: border-box;
+}
+
+.btn{
+  margin: 1rem 1rem;
+  width: 100px;
+  height: 45px;
+  font-size: 20px;
+}
